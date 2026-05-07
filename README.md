@@ -134,10 +134,10 @@ Licensed under [CC BY 4.0](./LICENSE) — share, adapt, build on; just credit th
 
 ## Related public repos
 
-This repo is part of a small family of public reference material on agentic engineering.
+This repo is part of a small family of public reference material on agentic engineering. Each has both a source repo and a live site.
 
-- **[share-ai-engineering-patterns](https://github.com/LoFiGamerGuy/share-ai-engineering-patterns)** — Practitioner's reference for building with AI agents: patterns, infrastructure, tradeoffs. The Council of Five is a *complementary* multi-agent pattern to the plan/execute/judge and reflection-loop patterns documented there. CC BY 4.0.
-- **[five-register-design-system](https://github.com/LoFiGamerGuy/five-register-design-system)** — Design system for the artifacts agentic work produces. MIT licensed.
+- **[share-ai-engineering-patterns](https://github.com/LoFiGamerGuy/share-ai-engineering-patterns)** &middot; [live catalogue →](https://lofigamerguy.github.io/share-ai-engineering-patterns/) — Practitioner's reference for building with AI agents: patterns, infrastructure, tradeoffs. The Council of Five is a *complementary* multi-agent pattern to the plan/execute/judge and reflection-loop patterns documented there. CC BY 4.0.
+- **[five-register-design-system](https://github.com/LoFiGamerGuy/five-register-design-system)** &middot; [live gallery →](https://lofigamerguy.github.io/five-register-design-system/) — Design system for the artifacts agentic work produces. MIT licensed.
 - **[terminal-stack](https://github.com/LoFiGamerGuy/terminal-stack)** — Opinionated terminal kit for Git Bash on Windows.
 - **[dotfiles](https://github.com/LoFiGamerGuy/dotfiles)** — Personal dotfiles.
 
