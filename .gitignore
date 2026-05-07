@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local-only variants of tracked files (private overrides)
+*.local.md
+
+# Convening logs are typically project-specific; users may want to gitignore
+# them depending on their use case. Uncomment if your convening logs contain
+# private content:
+# convenings/
