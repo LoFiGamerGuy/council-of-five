@@ -140,6 +140,7 @@ This repo is part of a small family of public reference material on agentic engi
 - **[reference-library-methodology](https://github.com/LoFiGamerGuy/reference-library-methodology)** &middot; [live →](https://lofigamerguy.github.io/reference-library-methodology/) — System for building a queryable, AI-readable technical reference library. Useful when the council needs to consult a corpus of source material across deliberations. MIT licensed.
 - **[alpha-reader-toolkit](https://github.com/LoFiGamerGuy/alpha-reader-toolkit)** &middot; [live →](https://lofigamerguy.github.io/alpha-reader-toolkit/) — Domain-specific application of council-style multi-persona deliberation to fiction manuscript critique. MIT licensed.
 - **[five-register-design-system](https://github.com/LoFiGamerGuy/five-register-design-system)** &middot; [live gallery →](https://lofigamerguy.github.io/five-register-design-system/) — Design system for the artifacts agentic work produces. MIT licensed.
+- **[cross-platform-ai-dev-env-playbook](https://github.com/LoFiGamerGuy/cross-platform-ai-dev-env-playbook)** &middot; [live →](https://lofigamerguy.github.io/cross-platform-ai-dev-env-playbook/) — Concrete operational playbook for cross-platform agentic AI dev environments. CC BY 4.0.
 - **[terminal-stack](https://github.com/LoFiGamerGuy/terminal-stack)** — Opinionated terminal kit for Git Bash on Windows.
 - **[dotfiles](https://github.com/LoFiGamerGuy/dotfiles)** — Personal dotfiles.
 
